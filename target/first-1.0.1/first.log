@@ -1,0 +1,16 @@
+21.05.2023 22:06:51.342 [main] INFO  com.task1.App - Program was started
+21.05.2023 22:06:51.355 [main] DEBUG com.task1.App - Finding properties file out of jar
+21.05.2023 22:06:51.356 [main] DEBUG com.task1.App - Properties were loaded
+21.05.2023 22:06:51.357 [main] INFO  com.task1.App - Setting message Привіт, Інна! 
+21.05.2023 22:06:51.362 [main] DEBUG com.task1.App - Processing message format
+21.05.2023 22:06:51.618 [main] DEBUG com.task1.App - {"message":"Привіт, Інна!"}
+21.05.2023 22:06:51.620 [main] DEBUG com.task1.App - JSON message was created
+21.05.2023 22:06:51.620 [main] INFO  com.task1.App - Program was finished
+21.05.2023 22:07:05.103 [main] INFO  com.task1.App - Program was started
+21.05.2023 22:07:05.118 [main] DEBUG com.task1.App - Finding properties file out of jar
+21.05.2023 22:07:05.119 [main] DEBUG com.task1.App - Properties were loaded
+21.05.2023 22:07:05.120 [main] INFO  com.task1.App - Setting message Привіт, Inna! 
+21.05.2023 22:07:05.125 [main] DEBUG com.task1.App - Processing message format
+21.05.2023 22:07:05.381 [main] DEBUG com.task1.App - {"message":"Привіт, Inna!"}
+21.05.2023 22:07:05.382 [main] DEBUG com.task1.App - JSON message was created
+21.05.2023 22:07:05.383 [main] INFO  com.task1.App - Program was finished
